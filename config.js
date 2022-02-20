@@ -1,8 +1,11 @@
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `anh sẽ xây cả tòa lâu đài
-    đâu ai chắc chuyện tình sẽ phai màu
+
+    Đâu ai chắc chuyện tình sẽ phai màu
+
     anh sẽ bên YOU thật lâu dài
+
     ra coffee và cùng nghe lofi`,
     btnIntro: 'hihi',
     title: 'Nay trời đẹp ghiaa á 😙',
