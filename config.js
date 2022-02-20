@@ -1,19 +1,18 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: ` Trên trời có vạn vì sao
-    Thành đây chỉ có câu hỏi nàng
-    Bún đậu thơm ngon ngút ngàn
-    Vì sao mài chỉ ăn chả cốm hả Vy`,
-    btnIntro: 'hmmm',
-    title: 'Phải chăng Vy lại kén ăn 😙',
-    desc: 'Hỏi lần cúi ăn bún đậu không chả cốm nhá ',
-    btnYes: 'Okee lun cái giề cũng ăn ',
-    btnNo: 'Only Chả cốm nhá :3',
-    question:' Thấy hay ko Vy, khoái liền <3',
-    btnReply: ' rep Thành biết nèo <3',
-    reply: 'Ăn thì yêu mà không yêu thì ăn <33333333',
-    mess: 'Tui biết mà 🥰. Thanksssss',
-    messDesc: 'Hết dịch đi ăn bún đậu .',
-    btnAccept: 'Okiiiii nhá <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introDesc: `anh sẽ xây cả tòa lâu đài
+    đâu ai chắc chuyện tình sẽ phai màu
+    anh sẽ bên YOU thật lâu dài
+    ra coffee và cùng nghe lofi`,
+    btnIntro: 'hihi',
+    title: 'Nay trời đẹp ghiaa á 😙',
+    desc: 'Tối nay em có bận không nè ',
+    btnYes: 'Dạ bận vãi cả nồi <33',
+    btnNo: 'Dạ humm :3',
+    question:'Bận vậy thì anh mua tsua qua cho em nhá <3',
+    btnReply: ' KHÔNG ạ <3',
+    reply: 'hihihi <33333333',
+    mess: 'See YOU soon 😘😘',
+    messDesc: 'Lát anh ghé nhaaa.',
+    btnAccept: 'Okiiiii lun <3',
 }
